@@ -1,4 +1,4 @@
-[Android Open Kang Project](http://aokp.co)
+[Hopkins Open Kang Project]
 ====================================
 
 
